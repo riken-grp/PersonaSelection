@@ -20,7 +20,7 @@ PersonaSelectionはJapanese Persona Chatの対話データを用いて作成さ�
 ```
 @inproceedings{kaiyo2024select,
     title="ペルソナ対話システムにおけるペルソナ選択と応答生成",
-    author={"吉田快, 吉野幸一郎, 品川政太朗, 須藤克仁, 中村哲"},
+    author="吉田快 and 吉野幸一郎 and 品川政太朗 and 須藤克仁 and 中村哲",
     booktitle = "言語処理学会第30回年次大会発表論文集",
     year = "2024",
     pages = "1447--1452"
